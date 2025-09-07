@@ -5,7 +5,7 @@
 Soy QA tester
 
 ###Puedes encontrarme en
-- [Linkedin] (https://www.linkedin.com/in/clara-mestre-castello/)
+- Linkedin (https://www.linkedin.com/in/clara-mestre-castello/)
 
 
 Here are some ideas to get you started:
