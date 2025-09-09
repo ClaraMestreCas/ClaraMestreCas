@@ -10,6 +10,8 @@ Soy QA tester
 ### Skills:
 - Pruebas funcionales, de humo y de regresión.
 - Creación listas de comprobación.
+- Reporte claro y detallado de bugs.
+- Consultas SQL.
 - Usos de herramientas:
     - Postman
     - GitHub
