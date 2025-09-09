@@ -7,6 +7,14 @@ Soy QA tester
 ### Puedes encontrarme en:
 - Linkedin (https://www.linkedin.com/in/clara-mestre-castello/)
 
+### Skills:
+- Pruebas funcionales, de humo y de regresión.
+- Creación listas de comprobación.
+- Usos de herramientas:
+    - Postman
+    - GitHub
+    - Jira
+- Lenguaje: Python
 
 
 
